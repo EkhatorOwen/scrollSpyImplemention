@@ -1,0 +1,39 @@
+header{
+   height: 450px;
+    width: auto;
+    margin-top: 10px;
+    background-color: deepskyblue;
+}
+.content-center
+{
+    padding-top: 40px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.footer-size{
+    height: 50px;
+    width: auto;
+    margin-top: 10px;
+    background-color: black;
+}
+
+.contact-size
+{
+    height: 400px;
+    width: auto;
+    margin-top: 10px;
+}
+
+.about-size
+{
+    height: 400px;
+    width: auto;
+    margin-top: 10px;
+}
+
+body{
+    position: relative;
+}
+
